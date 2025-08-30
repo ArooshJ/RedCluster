@@ -1,0 +1,29 @@
+cluster_id,llm_topic_label,num_comments
+0,Retain Standard Voice Mode,110
+1,"Poor Performance in GPT-5
+
+Alternatively, other options could be:
+- GPT-5 Underperforms
+- Regression in GPT-5
+- GPT-5 Issues
+- Poor GPT-5 Quality
+
+These labels all have 5 words or less and capture the core pain point from the user comments, which is that GPT-5 is not performing as well as its predecessors or competitors.",86
+2,Removal of GPT-4o model,928
+3,Remove Model Choice,69
+4,"Perceived Censorship and Moderation Issues 
+
+Alternatively, a more concise label could be: Censorship Frustration
+
+However, to fit the 5-word limit, a suitable label is: Censorship and Moderation Issues
+
+The most fitting 5-word or less label is: Moderation Frustration 
+
+The final label is: Moderation Issues",66
+5,"Context Window Limitation Frustration
+
+This label captures the core pain point expressed by the majority of users, who are unhappy with the current context window limits, particularly the reduced limit for non-Pro plans.",225
+6,Loss of Preferred Model,76
+7,Loss of GPT-4o Option,94
+8,Overly Strict Content Censorship,69
+9,AI Safety and Ethics,180

@@ -1,0 +1,148 @@
+Cache not found. Generating embeddings with 'BAAI/bge-large-en-v1.5'...
+modules.json: 100%
+ 349/349 [00:00<00:00, 7.90kB/s]
+config_sentence_transformers.json: 100%
+ 124/124 [00:00<00:00, 2.33kB/s]
+README.md: 
+ 94.6k/? [00:00<00:00, 1.65MB/s]
+sentence_bert_config.json: 100%
+ 52.0/52.0 [00:00<00:00, 1.07kB/s]
+config.json: 100%
+ 779/779 [00:00<00:00, 15.2kB/s]
+model.safetensors: 100%
+ 1.34G/1.34G [00:19<00:00, 49.9MB/s]
+tokenizer_config.json: 100%
+ 366/366 [00:00<00:00, 12.7kB/s]
+vocab.txt: 
+ 232k/? [00:00<00:00, 4.04MB/s]
+tokenizer.json: 
+ 711k/? [00:00<00:00, 10.1MB/s]
+special_tokens_map.json: 100%
+ 125/125 [00:00<00:00, 4.22kB/s]
+config.json: 100%
+ 191/191 [00:00<00:00, 3.56kB/s]
+Batches: 100%
+ 81/81 [00:58<00:00,  6.93it/s]
+Embeddings saved to embeddings_cache/BAAI_bge-large-en-v1.5.npy.
+Reducing dimensions using PCA to 50 components...
+
+--- RUNNING EXPERIMENT: bge-large-en-v1.5__pca__kmeans ---
+Performing clustering with KMEANS...
+📊 Result: Found 8 clusters with 0 noise points.
+💾 Saved labels to cluster_results/bge-large-en-v1.5__pca__kmeans_labels.npy and summary to CSV.
+--------------------------------------------------
+
+--- RUNNING EXPERIMENT: bge-large-en-v1.5__pca__dbscan ---
+Performing clustering with DBSCAN...
+📊 Result: Found 2 clusters with 158 noise points.
+💾 Saved labels to cluster_results/bge-large-en-v1.5__pca__dbscan_labels.npy and summary to CSV.
+--------------------------------------------------
+
+--- RUNNING EXPERIMENT: bge-large-en-v1.5__pca__hdbscan ---
+Performing clustering with HDBSCAN...
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+📊 Result: Found 2 clusters with 849 noise points.
+💾 Saved labels to cluster_results/bge-large-en-v1.5__pca__hdbscan_labels.npy and summary to CSV.
+--------------------------------------------------
+Reducing dimensions using UMAP to 10 components...
+/usr/local/lib/python3.12/dist-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+
+--- RUNNING EXPERIMENT: bge-large-en-v1.5__umap__kmeans ---
+Performing clustering with KMEANS...
+📊 Result: Found 8 clusters with 0 noise points.
+💾 Saved labels to cluster_results/bge-large-en-v1.5__umap__kmeans_labels.npy and summary to CSV.
+--------------------------------------------------
+
+--- RUNNING EXPERIMENT: bge-large-en-v1.5__umap__dbscan ---
+Performing clustering with DBSCAN...
+📊 Result: Found 7 clusters with 79 noise points.
+💾 Saved labels to cluster_results/bge-large-en-v1.5__umap__dbscan_labels.npy and summary to CSV.
+--------------------------------------------------
+
+--- RUNNING EXPERIMENT: bge-large-en-v1.5__umap__hdbscan ---
+Performing clustering with HDBSCAN...
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+📊 Result: Found 64 clusters with 964 noise points.
+💾 Saved labels to cluster_results/bge-large-en-v1.5__umap__hdbscan_labels.npy and summary to CSV.
+--------------------------------------------------
+Cache not found. Generating embeddings with 'all-MiniLM-L6-v2'...
+modules.json: 100%
+ 349/349 [00:00<00:00, 35.1kB/s]
+config_sentence_transformers.json: 100%
+ 116/116 [00:00<00:00, 13.4kB/s]
+README.md: 
+ 10.5k/? [00:00<00:00, 684kB/s]
+sentence_bert_config.json: 100%
+ 53.0/53.0 [00:00<00:00, 5.89kB/s]
+config.json: 100%
+ 612/612 [00:00<00:00, 65.1kB/s]
+model.safetensors: 100%
+ 90.9M/90.9M [00:01<00:00, 98.4MB/s]
+tokenizer_config.json: 100%
+ 350/350 [00:00<00:00, 22.0kB/s]
+vocab.txt: 
+ 232k/? [00:00<00:00, 13.6MB/s]
+tokenizer.json: 
+ 466k/? [00:00<00:00, 21.8MB/s]
+special_tokens_map.json: 100%
+ 112/112 [00:00<00:00, 10.3kB/s]
+config.json: 100%
+ 190/190 [00:00<00:00, 21.7kB/s]
+Batches: 100%
+ 81/81 [00:03<00:00, 53.40it/s]
+Embeddings saved to embeddings_cache/all-MiniLM-L6-v2.npy.
+Reducing dimensions using PCA to 50 components...
+
+--- RUNNING EXPERIMENT: all-MiniLM-L6-v2__pca__kmeans ---
+Performing clustering with KMEANS...
+📊 Result: Found 8 clusters with 0 noise points.
+💾 Saved labels to cluster_results/all-MiniLM-L6-v2__pca__kmeans_labels.npy and summary to CSV.
+--------------------------------------------------
+
+--- RUNNING EXPERIMENT: all-MiniLM-L6-v2__pca__dbscan ---
+Performing clustering with DBSCAN...
+📊 Result: Found 13 clusters with 2452 noise points.
+💾 Saved labels to cluster_results/all-MiniLM-L6-v2__pca__dbscan_labels.npy and summary to CSV.
+--------------------------------------------------
+
+--- RUNNING EXPERIMENT: all-MiniLM-L6-v2__pca__hdbscan ---
+Performing clustering with HDBSCAN...
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+📊 Result: Found 3 clusters with 626 noise points.
+💾 Saved labels to cluster_results/all-MiniLM-L6-v2__pca__hdbscan_labels.npy and summary to CSV.
+--------------------------------------------------
+Reducing dimensions using UMAP to 10 components...
+/usr/local/lib/python3.12/dist-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+
+--- RUNNING EXPERIMENT: all-MiniLM-L6-v2__umap__kmeans ---
+Performing clustering with KMEANS...
+📊 Result: Found 8 clusters with 0 noise points.
+💾 Saved labels to cluster_results/all-MiniLM-L6-v2__umap__kmeans_labels.npy and summary to CSV.
+--------------------------------------------------
+
+--- RUNNING EXPERIMENT: all-MiniLM-L6-v2__umap__dbscan ---
+Performing clustering with DBSCAN...
+📊 Result: Found 8 clusters with 73 noise points.
+💾 Saved labels to cluster_results/all-MiniLM-L6-v2__umap__dbscan_labels.npy and summary to CSV.
+--------------------------------------------------
+
+--- RUNNING EXPERIMENT: all-MiniLM-L6-v2__umap__hdbscan ---
+Performing clustering with HDBSCAN...
+📊 Result: Found 60 clusters with 867 noise points.
+💾 Saved labels to cluster_results/all-MiniLM-L6-v2__umap__hdbscan_labels.npy and summary to CSV.
+--------------------------------------------------
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/usr/local/lib/python3.12/dist-packages/sklearn/utils/deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(

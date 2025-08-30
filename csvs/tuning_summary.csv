@@ -1,0 +1,5 @@
+min_cluster_size,num_clusters,noise_points
+20,29,870
+30,18,887
+40,14,851
+50,10,682

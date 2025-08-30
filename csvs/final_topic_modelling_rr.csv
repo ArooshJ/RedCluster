@@ -1,0 +1,33 @@
+cluster_id,source_keywords,flan_t5_topic_label_rr,oss_topic_label_rr,kimik2_topic_label_rr,llama4_topic_label,llm_topic_label,oss_sum_topic
+0,"voice, mode, voice mode, standard voice, advanced voice, avm, different, chatgpt, audio, gpt",chatgpt - different voice,ChatGPT Voice Mode Options,Voice Mode Options,"Advanced Voice Mode is a suitable label, but it can be more concise. 
+
+Concise Topic Label: Voice Mode",Retain Standard Voice Mode,Loss of Preferred Standard Voice Mode
+1,"image gen, generation, sora, image generation, video, gpt4o, censorship, create, 2d, create image",gpt4o -,Sora Image and Video Generation,AI Image & Video Creation,GPT Model Image Output Quality,"Poor Performance in GPT-5
+
+Alternatively, other options could be:
+- GPT-5 Underperforms
+- Regression in GPT-5
+- GPT-5 Issues
+- Poor GPT-5 Quality
+
+These labels all have 5 words or less and capture the core pain point from the user comments, which is that GPT-5 is not performing as well as its predecessors or competitors.",Unmet expectations and degraded performance
+2,"models, models settings, legacy models, old models, model picker, anymore, default, remove models, option, choose model",choose model from the dropdown menu to,**Model Management and Selection**,Model picker removal,GPT Model Comparison,Removal of GPT-4o model,Restore GPT‑4o model option
+3,"openai, models, benchmarks, does openai, openais, transparency, openai chosen, time awareness, like o5, asking mars",openai -lrb,OpenAI Model Transparency Benchmarks,OpenAI Model Transparency,GPT-4o Model by OpenAI,Remove Model Choice,Removed models break workflow continuity
+4,"ama, comments, sam, answer questions, jits, answered, links, limit thats, profiles, profiles comment",sam jones ama,AMA Answers and Profile Comments,AMA Profiles & Comments,"User Comments and Responses 
+
+Alternatively, a shorter label could be: User Comments","Perceived Censorship and Moderation Issues 
+
+Alternatively, a more concise label could be: Censorship Frustration
+
+However, to fit the 5-word limit, a suitable label is: Censorship and Moderation Issues
+
+The most fitting 5-word or less label is: Moderation Frustration 
+
+The final label is: Moderation Issues",Ignored feedback and perceived censorship
+5,"window, context window, 32k, use, plus users, chatgpt, conversation, memory, tokens, api",chatgpt uses 32k of,ChatGPT Plus 32k Context,ChatGPT 32K Context Window,ChatGPT Context Window Expansion,"Context Window Limitation Frustration
+
+This label captures the core pain point expressed by the majority of users, who are unhappy with the current context window limits, particularly the reduced limit for non-Pro plans.",Limited context window size
+6,"chatgpt, models, use, gpt5, work, chat, feels like, pro, personality, friend",chatgpt is a free,ChatGPT as Professional Companion,Pro ChatGPT Experience,ChatGPT User Experience and Opinions is a bit too long. A more concise label would be: ChatGPT User Feedback.,Loss of Preferred Model,Missing legacy model options
+7,"4o, gpt4o, model, gpt5, emotional, support, gpt, choose, presence, feel",choosing the right gpt for,Choosing GPT‑4o for Emotional Support,Emotional GPT-4o Experience,GPT4o Emotional Tone User Experience,Loss of GPT-4o Option,Forced Model Switch Removes Empathy
+8,"chatgpt, filter, content, adults, users, harmful, banned, questions, censorship, flagged",chatgpt flagged as harmful,ChatGPT Harmful Content Filtering,Adult Content Filtering,Harmful Sexual Content Filtering,Overly Strict Content Censorship,Excessive censorship hindering legitimate use
+9,"openai, ai, safety, users, models, trust, openais, care, sam, literally",openai samsung,OpenAI AI Safety & Trust,OpenAI User Trust,AI Safety Concerns for Users,AI Safety and Ethics,**Trust and transparency issues**

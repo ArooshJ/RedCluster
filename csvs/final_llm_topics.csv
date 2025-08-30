@@ -1,0 +1,112 @@
+evidence_set,model_name,topic_name,relevance_score,justification,cluster_id
+A,Flan-T5,avm vs.,6,The topic 'avm vs.' from Flan-T5 in Evidence Set A seems to be a starting point but lacks specificity and clarity regarding the voice mode comparison.,0
+A,GPT-OSS,Voice Mode: Standard vs Advanced,9,"The topic 'Voice Mode: Standard vs Advanced' from GPT-OSS in Evidence Set A directly addresses the comparison between standard and advanced voice modes, making it highly relevant.",0
+A,Kimi-k2,Advanced Voice Mode,8,The topic 'Advanced Voice Mode' from Kimi-k2 in Evidence Set A focuses on a specific aspect of voice mode but doesn't explicitly compare standard and advanced modes.,0
+A,Llama4 Maverick,"Advanced Voice Mode is a suitable label, but it can be more concise. ",7,The topic from Llama4 Maverick in Evidence Set A suggests a concise label but doesn't fully capture the essence of the voice mode debate.,0
+B,Flan-T5,chatgpt - different voice,5,The topic 'chatgpt - different voice' from Flan-T5 in Evidence Set B seems less relevant as it doesn't directly address the voice mode comparison.,0
+B,GPT-OSS,ChatGPT Voice Mode Options,8,The topic 'ChatGPT Voice Mode Options' from GPT-OSS in Evidence Set B is relevant but could be more specific about standard vs. advanced modes.,0
+B,Kimi-k2,Voice Mode Options,7,The topic 'Voice Mode Options' from Kimi-k2 in Evidence Set B is somewhat relevant but lacks the specificity of standard vs. advanced voice modes.,0
+B,Llama4 Maverick,"Advanced Voice Mode is a suitable label, but it can be more concise. ",6,The topic from Llama4 Maverick in Evidence Set B reiterates the need for a concise label but doesn't fully engage with the voice mode debate.,0
+C,Llama-4Maverick,Retain Standard Voice Mode,8,The topic 'Retain Standard Voice Mode' from Llama-4Maverick in Evidence Set C directly addresses a key concern of the users.,0
+C,GPT-OSS,Loss of Preferred Standard Voice Mode,9,The topic 'Loss of Preferred Standard Voice Mode' from GPT-OSS in Evidence Set C captures a critical user concern about the potential loss of standard voice mode.,0
+A,Flan-T5,image result for gpt5,8,"The topic is directly related to GPT-5 and image results, indicating a concern with GPT-5's performance in generating or handling images.",1
+A,GPT-OSS,GPT-5 Image Model Performance,9,"This topic directly addresses the performance of GPT-5 in image-related tasks, which is a key concern based on user comments.",1
+A,Kimi-k2,GPT-4o Output Drop,6,"Although related to GPT-4o, this topic indirectly relates to GPT-5 performance concerns.",1
+A,Llama4 Maverick,GPT Model Image Output Quality,8,This topic is directly related to concerns about GPT model's (likely GPT-5) image output quality.,1
+B,Flan-T5,gpt4o,5,"This topic seems less directly related to GPT-5 concerns, focusing on GPT-4o.",1
+B,GPT-OSS,Sora Image and Video Generation,8,"This topic relates to image and video generation, areas where GPT-5 seems to be lacking.",1
+B,Kimi-k2,AI Image & Video Creation,7,"This topic is relevant as it discusses image and video creation, areas of concern for GPT-5.",1
+B,Llama4 Maverick,GPT Model Image Output Quality,8,"Similar to other topics, this directly relates to concerns about GPT-5's image output.",1
+C,Llama-4Maverick,Poor Performance in GPT-5,9,"This topic directly addresses the poor performance of GPT-5, summarizing user comments.",1
+C,GPT-OSS,Unmet expectations and degraded performance,9,This topic summarizes the unmet expectations and degraded performance of GPT-5.,1
+A,TFIDF,Using GPT-4o Model,8,The topic is directly mentioned in the evidence and aligns with user comments about GPT-4o.,2
+A,Flan-T5,mobile phones gpt o,6,The topic seems related but less directly mentioned in user comments.,2
+A,GPT-OSS,Using GPT-4o Model,9,Directly matches user comments about GPT-4o.,2
+A,Kimi-k2,GPT Model Comparison,7,Related to user comments comparing models.,2
+A,Llama4 Maverick,GPT Model Comparison,7,Related to user comments comparing models.,2
+B,BERTopic With Maximal Marginal Relevance,Model Management and Selection,8,Aligns with user comments about model selection and management.,2
+B,Flan-T5,choose model from the dropdown menu to,5,Less directly mentioned but related to model selection.,2
+B,GPT-OSS,Model Management and Selection,8,Directly matches user comments about model management.,2
+B,Kimi-k2,Model picker removal,6,Related to user comments about model removal.,2
+B,Llama4 Maverick,GPT Model Comparison,7,Related to user comments comparing models.,2
+C,Llama-4Maverick,Removal of GPT-4o model,9,Directly matches user comments about removing GPT-4o.,2
+C,GPT-OSS,Restore GPT-4o model option,9,Directly matches user comments about restoring GPT-4o.,2
+A,TFIDF,openai gpt4,8,"The topic 'openai gpt4' is highly relevant as it directly relates to the OpenAI GPT-4 model, which is a central theme in the evidence.",3
+A,Flan-T5,openai gpt4,9,"The topic 'openai gpt4' is highly relevant as it directly relates to the OpenAI GPT-4 model, which is a central theme in the evidence.",3
+A,GPT-OSS,OpenAI GPT‑4o Model,9,"The topic 'OpenAI GPT‑4o Model' is highly relevant as it directly relates to the OpenAI GPT-4o model, which is a central theme in the evidence.",3
+A,Kimi-k2,OpenAI GPT-4o Models,8,"The topic 'OpenAI GPT-4o Models' is highly relevant as it directly relates to the OpenAI GPT-4o models, which is a central theme in the evidence.",3
+A,Llama4 Maverick,GPT-4o Model by OpenAI,9,"The topic 'GPT-4o Model by OpenAI' is highly relevant as it directly relates to the OpenAI GPT-4o model, which is a central theme in the evidence.",3
+B,Flan-T5,openai -lrb,7,"The topic 'openai -lrb' is relevant as it relates to OpenAI, but the score is lower due to the less specific topic name.",3
+B,GPT-OSS,OpenAI Model Transparency Benchmarks,8,The topic 'OpenAI Model Transparency Benchmarks' is highly relevant as it directly relates to the transparency and benchmarks of OpenAI models.,3
+B,Kimi-k2,OpenAI Model Transparency,8,The topic 'OpenAI Model Transparency' is highly relevant as it directly relates to the transparency of OpenAI models.,3
+B,Llama4 Maverick,GPT-4o Model by OpenAI,9,"The topic 'GPT-4o Model by OpenAI' is highly relevant as it directly relates to the OpenAI GPT-4o model, which is a central theme in the evidence.",3
+C,Llama-4Maverick,Remove Model Choice,6,The topic 'Remove Model Choice' is relevant but has a lower score as it does not directly relate to the OpenAI models.,3
+C,GPT-OSS,Removed models break workflow continuity,8,The topic 'Removed models break workflow continuity' is highly relevant as it directly relates to the impact of removing models on workflow continuity.,3
+A,TFIDF,User Comments,8,"The topic 'User Comments' is a broad but accurate representation of the evidence set A, which includes keywords like 'comments', 'comment', and 'questions'.",4
+A,Flan-T5,don t you just love how people,6,The topic 'don t you just love how people' seems less relevant as it appears to be a specific phrase rather than a general topic.,4
+A,GPT-OSS,AMA Q&A Session,9,The topic 'AMA Q&A Session' accurately captures the essence of an AMA (Ask Me Anything) session.,4
+A,Kimi-k2,AMA Comments,8,The topic 'AMA Comments' is directly related to the comments section of an AMA session.,4
+A,Llama4 Maverick,User Comments and Responses,8,"The topic 'User Comments and Responses' covers both the comments and responses, making it a comprehensive topic.",4
+B,BERTopic With Maximal Marginal Relevance,User Comments,8,"Similar to Evidence Set A, 'User Comments' is a fitting topic for the reranked keywords.",4
+B,Flan-T5,sam jones ama,5,The topic 'sam jones ama' seems specific and less general compared to others.,4
+B,GPT-OSS,AMA Answers and Profile Comments,9,This topic accurately reflects the content of AMA answers and profile comments.,4
+B,Kimi-k2,AMA Profiles & Comments,8,The topic 'AMA Profiles & Comments' is relevant but slightly less specific than GPT-OSS's topic.,4
+B,Llama4 Maverick,User Comments and Responses,8,This topic remains relevant and consistent across different evidence sets.,4
+C,Llama-4Maverick,Moderation Issues,9,The topic 'Moderation Issues' directly addresses a key concern in the sample comments.,4
+C,GPT-OSS,Ignored feedback and perceived censorship,9,This topic captures the frustration and perception of ignored feedback and censorship.,4
+A,Flan-T5,chatgpt32 kb,8,"The topic is directly related to the ChatGPT model and its context window, which is a key pain point for users.",5
+A,GPT-OSS,ChatGPT32k Context Window,9,The topic is highly relevant as it specifically mentions the context window limitation of ChatGPT.,5
+A,Kimi-k2,ChatGPT Context Window Expansion,8,The topic is relevant as it discusses the need for expanding the context window of ChatGPT.,5
+A,Llama4 Maverick,ChatGPT Context Window Expansion,8,The topic is relevant as it discusses the need for expanding the context window of ChatGPT.,5
+B,Flan-T5,chatgpt uses32k of,7,The topic is relevant as it mentions the usage of 32k context window by ChatGPT.,5
+B,GPT-OSS,ChatGPT Plus32k Context,8,The topic is relevant as it discusses the context window limitation for ChatGPT Plus users.,5
+B,Kimi-k2,ChatGPT32K Context Window,8,The topic is highly relevant as it specifically mentions the 32K context window of ChatGPT.,5
+B,Llama4 Maverick,ChatGPT Context Window Expansion,8,The topic is relevant as it discusses the need for expanding the context window of ChatGPT.,5
+C,Llama-4Maverick,Context Window Limitation Frustration,9,The topic is highly relevant as it directly mentions the frustration with the context window limitation.,5
+C,GPT-OSS,Limited context window size,8,The topic is relevant as it discusses the limitation of the context window size.,5
+A,TFIDF,"chatgpt, like,4o, just, chat, gpt, want, people, model, don",8,"The topic label is directly derived from the initial TF-IDF keywords, indicating a strong relevance to the user's desire for ChatGPT-4o and dissatisfaction with the current model.",6
+A,Flan-T5,don just want to chat gp,7,"The topic label reflects a user's desire to chat with GPT, indicating a moderate relevance to the cluster theme of missing legacy models.",6
+A,GPT-OSS,People Want GPT‑4o Chat Model,9,"The topic label directly mentions GPT-4o, indicating a high relevance to the cluster theme of users wanting the legacy GPT-4o model back.",6
+A,Kimi-k2,ChatGPT4o Feedback,8,"The topic label is focused on feedback for ChatGPT4o, indicating a high relevance to the cluster theme.",6
+A,Llama4 Maverick,ChatGPT User Experience and Opinions,8,"The topic label reflects user experiences and opinions, indicating a high relevance to the cluster theme.",6
+B,BERTopic With Maximal Marginal Relevance,"chatgpt, models, use, gpt5, work, chat, feels like, pro, personality, friend",8,"The topic label includes keywords related to user experience and personality, indicating a high relevance to the cluster theme.",6
+B,Flan-T5,chatgpt is a free,6,"The topic label mentions ChatGPT but lacks specificity, indicating a moderate relevance to the cluster theme.",6
+B,GPT-OSS,ChatGPT as Professional Companion,9,"The topic label directly mentions ChatGPT as a companion, indicating a high relevance to the cluster theme of users wanting a legacy model with personality.",6
+B,Kimi-k2,Pro ChatGPT Experience,8,"The topic label reflects a professional experience, indicating a high relevance to the cluster theme.",6
+B,Llama4 Maverick,ChatGPT User Experience and Opinions,8,"The topic label reflects user experiences and opinions, indicating a high relevance to the cluster theme.",6
+C,Llama-4Maverick,Loss of Preferred Model,9,"The topic label directly mentions the loss of a preferred model, indicating a high relevance to the cluster theme.",6
+C,GPT-OSS,Missing legacy model options,9,"The topic label directly mentions missing legacy model options, indicating a high relevance to the cluster theme.",6
+A,TFIDF,gpt4o users just,9,"The topic 'gpt4o users just' is highly relevant as it directly relates to user interactions with GPT-4o, indicating a strong connection between users and the model's capabilities.",7
+A,Flan-T5,gpt4o users just,8,"The topic aligns with user queries about GPT-4o, showing its importance in user discussions.",7
+A,GPT-OSS,GPT‑4o Emotional Tone,9,"The emotional tone of GPT-4o is a critical aspect of user experience, highlighting the model's ability to understand and respond to emotions.",7
+A,Kimi-k2,GPT-4o Tone,8,"The topic emphasizes the tone of GPT-4o, which is vital for users seeking emotional support and connection.",7
+A,Llama4 Maverick,GPT4o Emotional Tone User Experience,9,"This topic captures the essence of user experience with GPT-4o, focusing on emotional tone and interaction.",7
+B,BERTopic With Maximal Marginal Relevance,choosing the right gpt for,8,"The topic 'choosing the right gpt for' indicates users' need to select appropriate GPT models, reflecting their concerns about model capabilities.",7
+B,Flan-T5,choosing the right gpt for,7,"This topic shows users' interest in choosing GPT models that fit their needs, highlighting the importance of model selection.",7
+B,GPT-OSS,Choosing GPT‑4o for Emotional Support,9,"The topic directly addresses users' needs for emotional support from GPT-4o, indicating a high level of relevance.",7
+B,Kimi-k2,Emotional GPT-4o Experience,8,"This topic focuses on the emotional experience of using GPT-4o, which is crucial for users seeking emotional connection.",7
+B,Llama4 Maverick,GPT4o Emotional Tone User Experience,9,"The topic emphasizes the emotional tone and user experience of GPT-4o, highlighting its significance in user interactions.",7
+C,Llama-4Maverick,Loss of GPT-4o Option,9,"The topic 'Loss of GPT-4o Option' directly relates to user concerns about the removal of GPT-4o, indicating high relevance.",7
+C,GPT-OSS,Forced Model Switch Removes Empathy,9,"This topic captures the essence of user frustration with the forced switch from GPT-4o to GPT-5, highlighting the loss of emotional connection.",7
+A,Flan-T5,gpt filtering for people,8,"The topic is relevant as it directly relates to filtering content for people, which is a key concern in the evidence.",8
+A,GPT-OSS,Sexual Content Filtering in ChatGPT,9,"This topic is highly relevant as it specifically mentions sexual content filtering in ChatGPT, aligning with the concerns about harmful content.",8
+A,Kimi-k2,Harmful Sexual Content Filtering,9,"This topic is highly relevant as it directly addresses the filtering of harmful sexual content, a key issue in the evidence.",8
+A,Llama4 Maverick,Harmful Sexual Content Filtering,9,"This topic is highly relevant as it also addresses the filtering of harmful sexual content, aligning with the evidence concerns.",8
+B,Flan-T5,chatgpt flagged as harmful,8,"This topic is relevant as it discusses ChatGPT being flagged as harmful, which is a concern in the evidence.",8
+B,GPT-OSS,ChatGPT Harmful Content Filtering,9,This topic is highly relevant as it directly addresses harmful content filtering in ChatGPT.,8
+B,Kimi-k2,Adult Content Filtering,8,"This topic is relevant as it discusses filtering adult content, which is a concern in the evidence.",8
+B,Llama4 Maverick,Harmful Sexual Content Filtering,9,"This topic is highly relevant as it addresses harmful sexual content filtering, a key concern.",8
+C,Llama-4Maverick,Overly Strict Content Censorship,9,This topic is highly relevant as it directly addresses the issue of overly strict content censorship.,8
+C,GPT-OSS,Excessive censorship hindering legitimate use,9,This topic is highly relevant as it discusses excessive censorship and its impact on legitimate use.,8
+A,TFIDF,AI Safety and User Trust,8,"The topic 'AI Safety and User Trust' is highly relevant as it directly addresses concerns about AI safety and user trust, which are central themes in the evidence.",9
+A,Flan-T5,don't worry about the safety of,6,The topic 'don't worry about the safety of' is relevant but less so than 'AI Safety and User Trust' as it seems to downplay safety concerns.,9
+A,GPT-OSS,AI Safety and User Trust,9,The topic 'AI Safety and User Trust' is highly relevant with a high score due to its direct address of user concerns.,9
+A,Kimi-k2,AI Safety Concerns,7,The topic 'AI Safety Concerns' is relevant as it addresses safety concerns but is less specific than 'AI Safety and User Trust'.,9
+A,Llama4 Maverick,AI Safety Concerns for Users,8,The topic 'AI Safety Concerns for Users' is highly relevant as it directly addresses safety concerns for users.,9
+B,BERTopic With Maximal Marginal Relevance,OpenAI AI Safety & Trust,9,The topic 'OpenAI AI Safety & Trust' is highly relevant as it directly addresses OpenAI's approach to AI safety and trust.,9
+B,Flan-T5,openai samsung,4,"The topic 'openai samsung' seems less relevant as it introduces an unrelated company, Samsung.",9
+B,GPT-OSS,OpenAI AI Safety & Trust,9,The topic 'OpenAI AI Safety & Trust' is highly relevant with a high score due to its direct address of OpenAI's approach to AI safety and trust.,9
+B,Kimi-k2,OpenAI User Trust,8,The topic 'OpenAI User Trust' is highly relevant as it addresses user trust in OpenAI.,9
+B,Llama4 Maverick,AI Safety Concerns for Users,8,The topic 'AI Safety Concerns for Users' is highly relevant as it directly addresses safety concerns for users.,9
+C,Llama-4Maverick,AI Safety and Ethics,8,The topic 'AI Safety and Ethics' is highly relevant as it addresses both safety and ethical concerns.,9
+C,GPT-OSS,Trust and transparency issues,9,The topic 'Trust and transparency issues' is highly relevant with a high score due to its direct address of user concerns about trust and transparency.,9

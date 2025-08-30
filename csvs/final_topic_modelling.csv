@@ -1,0 +1,37 @@
+cluster_id,TFIDF Keywords,BERTopic Reranked Keywords,flan_t5_topic_label,flan_t5_topic_label_rr,oss_topic_label,oss_topic_label_rr,kimik2_topic_label,kimik2_topic_label_rr,llama4_topic_label,llama4_topic_label_rr,llama4_sum_topics,oss_sum_topic
+0,"voice, standard voice, standard, voice mode, mode, avm, advanced, advanced voice, like, just","voice, mode, voice mode, standard voice, advanced voice, avm, different, chatgpt, audio, gpt",avm vs.,chatgpt - different voice,Voice Mode: Standard vs Advanced,ChatGPT Voice Mode Options,Advanced Voice Mode,Voice Mode Options,"Advanced Voice Mode is a suitable label, but it can be more concise. 
+
+Concise Topic Label: Voice Mode","Advanced Voice Mode is a suitable label, but it can be more concise. 
+
+Concise Topic Label: Voice Mode",Retain Standard Voice Mode,Loss of Preferred Standard Voice Mode
+1,"gpt, image, model, gpt5, instructions, instruction, 4o, worse, output, promising","image gen, generation, sora, image generation, video, gpt4o, censorship, create, 2d, create image",image result for gpt5,gpt4o -,GPT-5 Image Model Performance,Sora Image and Video Generation,GPT-4o Output Drop,AI Image & Video Creation,GPT Model Image Output Quality,GPT Model Image Output Quality,"Poor Performance in GPT-5
+
+Alternatively, other options could be:
+- GPT-5 Underperforms
+- Regression in GPT-5
+- GPT-5 Issues
+- Poor GPT-5 Quality
+
+These labels all have 5 words or less and capture the core pain point from the user comments, which is that GPT-5 is not performing as well as its predecessors or competitors.",Unmet expectations and degraded performance
+2,"4o, gpt, model, models, like, plus, just, users, o3, use","models, models settings, legacy models, old models, model picker, anymore, default, remove models, option, choose model",mobile phones gpt o,choose model from the dropdown menu to,**Using GPT‑4o Model**,**Model Management and Selection**,GPT Model Comparison,Model picker removal,GPT Model Comparison,GPT Model Comparison,Removal of GPT-4o model,Restore GPT‑4o model option
+3,"gpt, model, openai, 4o, models, users, o3, just, like, gpt 4o","openai, models, benchmarks, does openai, openais, transparency, openai chosen, time awareness, like o5, asking mars",openai gpt 4,openai -lrb,OpenAI GPT‑4o Model,OpenAI Model Transparency Benchmarks,OpenAI GPT-4o Models,OpenAI Model Transparency,GPT-4o Model by OpenAI,GPT-4o Model by OpenAI,Remove Model Choice,Removed models break workflow continuity
+4,"ama, comments, comment, just, like, people, don, questions, response, really","ama, comments, sam, answer questions, jits, answered, links, limit thats, profiles, profiles comment",don t you just love how people,sam jones ama,AMA Q&A Session,AMA Answers and Profile Comments,AMA Comments,AMA Profiles & Comments,"User Comments and Responses 
+
+Alternatively, a shorter label could be: User Comments","User Comments and Responses 
+
+Alternatively, a shorter label could be: User Comments","Perceived Censorship and Moderation Issues 
+
+Alternatively, a more concise label could be: Censorship Frustration
+
+However, to fit the 5-word limit, a suitable label is: Censorship and Moderation Issues
+
+The most fitting 5-word or less label is: Moderation Frustration 
+
+The final label is: Moderation Issues",Ignored feedback and perceived censorship
+5,"context, window, context window, chatgpt, 32k, gpt, chat, memory, plus, users","window, context window, 32k, use, plus users, chatgpt, conversation, memory, tokens, api",chatgpt 32 kb,chatgpt uses 32k of,ChatGPT 32k Context Window,ChatGPT Plus 32k Context,ChatGPT Context Window Expansion,ChatGPT 32K Context Window,ChatGPT Context Window Expansion,ChatGPT Context Window Expansion,"Context Window Limitation Frustration
+
+This label captures the core pain point expressed by the majority of users, who are unhappy with the current context window limits, particularly the reduced limit for non-Pro plans.",Limited context window size
+6,"chatgpt, like, 4o, just, chat, gpt, want, people, model, don","chatgpt, models, use, gpt5, work, chat, feels like, pro, personality, friend",don just want to chat gp,chatgpt is a free,People Want GPT‑4o Chat Model,ChatGPT as Professional Companion,ChatGPT 4o Feedback,Pro ChatGPT Experience,ChatGPT User Experience and Opinions is a bit too long. A more concise label would be: ChatGPT User Feedback.,ChatGPT User Experience and Opinions is a bit too long. A more concise label would be: ChatGPT User Feedback.,Loss of Preferred Model,Missing legacy model options
+7,"gpt, 4o, gpt 4o, emotional, model, users, like, just, user, tone","4o, gpt4o, model, gpt5, emotional, support, gpt, choose, presence, feel",gpt 4o users just,choosing the right gpt for,GPT‑4o Emotional Tone,Choosing GPT‑4o for Emotional Support,GPT-4o Tone,Emotional GPT-4o Experience,GPT4o Emotional Tone User Experience,GPT4o Emotional Tone User Experience,Loss of GPT-4o Option,Forced Model Switch Removes Empathy
+8,"sexual, people, like, just, harmful, content, filter, chatgpt, gpt, answer","chatgpt, filter, content, adults, users, harmful, banned, questions, censorship, flagged",gpt filtering for people,chatgpt flagged as harmful,Sexual Content Filtering in ChatGPT,ChatGPT Harmful Content Filtering,Harmful Sexual Content Filtering,Adult Content Filtering,Harmful Sexual Content Filtering,Harmful Sexual Content Filtering,Overly Strict Content Censorship,Excessive censorship hindering legitimate use
+9,"ai, people, like, openai, just, safety, don, users, models, friend","openai, ai, safety, users, models, trust, openais, care, sam, literally",don t worry about the safety of,openai samsung,AI Safety and User Trust,OpenAI AI Safety & Trust,AI Safety Concerns,OpenAI User Trust,AI Safety Concerns for Users,AI Safety Concerns for Users,AI Safety and Ethics,**Trust and transparency issues**
